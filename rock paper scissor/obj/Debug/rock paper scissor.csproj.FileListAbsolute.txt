@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\c#\rock paper scissor\rock paper scissor\bin\Debug\rock paper scissor.exe.config
+C:\Users\HP\Desktop\c#\rock paper scissor\rock paper scissor\bin\Debug\rock paper scissor.exe
+C:\Users\HP\Desktop\c#\rock paper scissor\rock paper scissor\bin\Debug\rock paper scissor.pdb
+C:\Users\HP\Desktop\c#\rock paper scissor\rock paper scissor\obj\Debug\rock paper scissor.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c#\rock paper scissor\rock paper scissor\obj\Debug\rock paper scissor.exe
+C:\Users\HP\Desktop\c#\rock paper scissor\rock paper scissor\obj\Debug\rock paper scissor.pdb
